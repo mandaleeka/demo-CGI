@@ -2,3 +2,4 @@ This is a demo file for Jenkins
 I am editing this file for a second commit.
 Checking on automated build -- Check 1
                             -- Check 2
+Checking on build triggered by commit
